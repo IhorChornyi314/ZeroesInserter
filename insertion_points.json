@@ -1,0 +1,190 @@
+{
+  "hclBoneSpaceMeshMeshDeformPNOperator": [
+    {
+      "point": 20,
+      "count": 4
+    },
+    {
+      "point": 40,
+      "count": 4
+    },
+    {
+      "point": 176,
+      "count": 8
+    }
+  ],
+  "hclBoneSpaceMeshMeshDeformPOperator": [
+    {
+      "point": 20,
+      "count": 4
+    },
+    {
+      "point": 40,
+      "count": 4
+    },
+    {
+      "point": 176,
+      "count": 8
+    }
+  ],
+  "hclCapsuleShape": [
+    {
+      "point": 16,
+      "count": 16
+    }
+  ],
+  "hclCopyVerticesOperator": [
+    {
+      "point": 32,
+      "count": 4
+    },
+    {
+      "point": 56,
+      "count": -4
+    }
+  ],
+  "hclInputConvertOperator": [
+    {
+      "point": 20,
+      "count": 4
+    },
+    {
+      "point": 80,
+      "count": 12
+    }
+  ],
+  "hclObjectSpaceMeshMeshDeformPOperator": [
+    {
+      "point": 20,
+      "count": 4
+    },
+    {
+      "point": 40,
+      "count": 4
+    },
+    {
+      "point": 192,
+      "count": 8
+    }
+  ],
+  "hclObjectSpaceMeshMeshDeformPNOperator": [
+    {
+      "point": 20,
+      "count": 4
+    },
+    {
+      "point": 40,
+      "count": 4
+    },
+    {
+      "point": 192,
+      "count": 8
+    }
+  ],
+  "hclObjectSpaceMeshMeshDeformPNTBOperator": [
+    {
+      "point": 20,
+      "count": 4
+    },
+    {
+      "point": 40,
+      "count": 4
+    },
+    {
+      "point": 192,
+      "count": 8
+    }
+  ],
+  "hclObjectSpaceMeshMeshDeformPNTOperator": [
+    {
+      "point": 20,
+      "count": 4
+    },
+    {
+      "point": 40,
+      "count": 4
+    },
+    {
+      "point": 192,
+      "count": 8
+    }
+  ],
+  "hclOutputConvertOperator": [
+    {
+      "point": 20,
+      "count": 4
+    },
+    {
+      "point": 80,
+      "count": 12
+    }
+  ],
+  "hclPlaneShape": [
+    {
+      "point": 16,
+      "count": 16
+    }
+  ],
+  "hclSimpleMeshBoneDeformOperator": [
+    {
+      "point": 20,
+      "count": 4
+    },
+    {
+      "point": 36,
+      "count": -4
+    }
+  ],
+  "hclSimulateOperator": [
+    {
+      "point": 28,
+      "count": 4
+    },
+    {
+      "point": 40,
+      "count": 4
+    },
+    {
+      "point": 64,
+      "count": 8
+    }
+  ],
+  "hclSphereShape": [
+    {
+      "point": 16,
+      "count": 16
+    }
+  ],
+  "hclTaperedCapsuleShape": [
+    {
+      "point": 16,
+      "count": 16
+    }
+  ],
+  "hkaDefaultAnimatedReferenceFrame": [
+    {
+      "point": 16,
+      "count": 16
+    }
+  ],
+  "hkaSplineCompressedAnimation": [
+    {
+      "point": 8,
+      "count": 4
+    },
+    {
+      "point": 28,
+      "count": -4
+    }
+  ],
+  "hkbBlendingTransitionEffect": [
+    {
+      "point": 8
+    }
+  ],
+  "hkbBlenderGenerator": [
+    {
+      "point": 8
+    }
+  ]
+}
